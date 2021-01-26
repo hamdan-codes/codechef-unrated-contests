@@ -1,1 +1,3 @@
 # codechef-unrated-contests
+## Author <a href="https://chaudharyhamdan.me/">Chaudhary Hamdan </a>
+<h3>Contest Link (CODEWARS 2.0) : <a href="https://www.codechef.com/CWR22021">https://www.codechef.com/CWR22021</a></h3>
