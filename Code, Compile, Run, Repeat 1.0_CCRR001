@@ -1,0 +1,10 @@
+s = input()
+l = s.count('L')
+r = s.count('R')
+u = s.count('U')
+d = s.count('D')
+
+if l == r and u == d:
+    print('true')
+else:
+    print('false')
